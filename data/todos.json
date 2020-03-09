@@ -1,0 +1,72 @@
+[
+  {
+    "userId": 1,
+    "postId": 1,
+    "title": "delectus aut autem",
+    "star": 4,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 1,
+    "title": "quis ut nam facilis et officia qui",
+    "star": 5,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 3,
+    "title": "fugiat veniam minus",
+    "star": 4,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 5,
+    "title": "et porro tempora",
+    "star": 1,
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "postId": 5,
+    "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    "star": 4,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 6,
+    "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+    "star": 4,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 1,
+    "title": "illo expedita consequatur quia in",
+    "star": 2,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 8,
+    "title": "quo adipisci enim quam ut ab",
+    "star": 4,
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "postId": 3,
+    "title": "molestiae perspiciatis ipsa",
+    "star": 2,
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "postId": 5,
+    "title": "illo est ratione doloremque quia maiores aut",
+    "star": 4,
+    "completed": true
+  }
+]
